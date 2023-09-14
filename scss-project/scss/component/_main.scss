@@ -102,8 +102,7 @@
       padding: 1rem;
       margin-right: 1rem;
       background-color: $sl-color-white;
-      border: 0.1px solid $sl-color-white;
-      box-shadow: 3px 2px 2px $sl-color-black;
+
       margin-bottom: 2rem;
       .card__heading {
         display: block;
@@ -129,7 +128,7 @@
       }
       &:hover {
         background-color: $sl-color-greenBlue;
-        border: 0.1px solid $sl-color-greenBlue;
+
         .card__heading {
           color: $sl-color-yellow;
         }
